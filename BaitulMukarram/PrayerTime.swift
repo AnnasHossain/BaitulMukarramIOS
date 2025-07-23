@@ -11,7 +11,7 @@ struct PrayerTime: View {
                 Text(prayerName + ":")
                     .font(.headline)
                     .foregroundColor(.primary)
-                Text(prayerTime)
+                Text(prayerTime + " Uhr")
                     .font(.headline)
                     .foregroundColor(.secondary)
             }

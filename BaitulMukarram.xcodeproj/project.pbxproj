@@ -10,22 +10,9 @@
 		1D3653752E2C188700151FEE /* BaitulMukarram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaitulMukarram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		1DC199B12E2FD96000AC4DF1 /* Exceptions for "BaitulMukarram" folder in "BaitulMukarram" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Untitled.swift,
-			);
-			target = 1D3653742E2C188700151FEE /* BaitulMukarram */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		1D3653772E2C188700151FEE /* BaitulMukarram */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				1DC199B12E2FD96000AC4DF1 /* Exceptions for "BaitulMukarram" folder in "BaitulMukarram" target */,
-			);
 			path = BaitulMukarram;
 			sourceTree = "<group>";
 		};

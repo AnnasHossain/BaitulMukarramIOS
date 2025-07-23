@@ -22,6 +22,13 @@ struct MainTabView: View {
                         Image(systemName: "calendar")
                         Text("Calendar")
                     }
+                
+                DuaView()
+                    .tabItem {
+                        Image(systemName: "book")
+                        Text("Duas")
+                    }
+                
                 EventView()
                     .tabItem {
                         Image(systemName: "person.3.fill")
@@ -34,12 +41,6 @@ struct MainTabView: View {
                         Image(systemName: "info.circle.fill")
                         Text("About")
                     }
-                ImpressumView()
-                    .tabItem {
-                        Image(systemName: "hands.sparkles.fill")
-                        Text("Duas")
-                    }
-                
                 ImpressumView()
                     .tabItem {
                         Image(systemName: "doc.plaintext.fill")
