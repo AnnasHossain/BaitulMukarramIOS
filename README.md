@@ -18,7 +18,6 @@ Eine elegante SwiftUI-App zur Anzeige der täglichen Gebetszeiten – minimalist
 ## Technologie
 
 - **SwiftUI** für modernes UI-Design
-- **CoreLocation** (optional) zur Standortermittlung
 - **Offline-First**: Alle Daten lokal gespeichert
 - Unterstützt Dark Mode & Barrierefreiheit
 
