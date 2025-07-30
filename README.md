@@ -1,6 +1,8 @@
 # Gebetszeiten App
 
-Eine elegante SwiftUI-App zur Anzeige der täglichen Gebetszeiten – minimalistisch, präzise, offlinefähig.
+Eine SwiftUI-App zur Anzeige der täglichen Gebetszeiten – minimalistisch, präzise, offlinefähig.
+App soll die Webseitenfunktion vereinfachen für Nutzer, die die Gebetszeiten verwenden.
+Repository zur Webseite (optimiert für mobile Ansicht): https://github.com/AnnasHossain/Baitul-Mukarram.git 
 
 ## Features
 
@@ -8,6 +10,13 @@ Eine elegante SwiftUI-App zur Anzeige der täglichen Gebetszeiten – minimalist
 - Visuelle Trennung der Freitagsgebete
 - Automatische Berechnung basierend auf Standort (optional)
 - Kein Tracking, keine Werbung, volle Privatsphäre
+
+## To - Do 
+- Feinschliff Design bei Gebetszeiten Seite, Event Seite, Dua - Seite
+- Gebetszeiten Seite (Zeiten grün makiert anzeigen wie bei Webseite)
+- Dua Seite erweitern (jedes Feld als Button für nächste Seite)
+- Event Seite anpassen
+- Gebetszeiten Handy Benarchitigungs-Funktion implementieren
 
 ## Screenshots
 
